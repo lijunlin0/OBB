@@ -18,5 +18,19 @@
     <ClCompile Include="OBB.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mrectangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Line.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mrectangle.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

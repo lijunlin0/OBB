@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Line.cpp" />
     <ClCompile Include="OBB.cpp" />
+    <ClCompile Include="Mrectangle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Line.h" />
+    <ClInclude Include="Mrectangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
